@@ -1,2 +1,2 @@
 # Python
-Learing python
+Learing python to build RESTFUL APIs
