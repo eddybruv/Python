@@ -268,3 +268,4 @@ class CoyoteWeapon:
 
 
 CoyoteWeapon.commercial()
+print("~~~~~~~~~~~~~~~~~~~~~~")
