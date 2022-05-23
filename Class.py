@@ -1,4 +1,4 @@
-class 😸():
+class Meow():
    pass
 
 class Edwin():
@@ -6,9 +6,9 @@ class Edwin():
 
 Edwin.name = "Ajong"
 
-class car():
+class Car():
    def __init__(self, name):
       self.name = name
       print ("I love Edwin")
 
-hot = car("Sonia")
+hot = Car("Sonia")
